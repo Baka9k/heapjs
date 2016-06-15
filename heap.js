@@ -1,6 +1,5 @@
-﻿/**
-* 
-*/
+﻿//This is a part of this repository: https://github.com/Baka9k/heapjs
+
 
 function Heap() {
 	this.arr = new Array();
